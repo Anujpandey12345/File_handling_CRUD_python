@@ -175,3 +175,8 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ⭐ If you found this project helpful, please consider giving it a star!
 
 **Happy Coding!** 💻
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
